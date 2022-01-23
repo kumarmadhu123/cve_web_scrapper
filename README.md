@@ -1,6 +1,8 @@
 # cve_web_scrapper
 
 I am planning to scrap internet for CVE
+This will enable to get information of CVE without opening URLs 
+This work is 1% complete at this moment 
 
 # python libraries used till now 
 
