@@ -9,3 +9,10 @@ Malicious
 Crafted
 Vulnerability Introduced later
 Negligible Impact
+NOT-FOR-US:
+Redhat specific
+Vulnerable code introduced later
+is not a bug
+not a bug
+not treated as a security issue by upstream
+privileged

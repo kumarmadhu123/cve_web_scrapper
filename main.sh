@@ -19,21 +19,12 @@ curl "https://bugzilla.suse.com/show_bug.cgi?id=$CVE_ID" > store/bugzilla.html
 curl "https://bugzilla.redhat.com/show_bug.cgi?id=$CVE_ID" >store/redhat.html
 
 xmllint --format store/debian.html >store/debian.txt ;
-#cp store/ubuntu.html store/ubuntu.txt
-#cp store/gentoo.html store/gentoo.txt
-#cp store/bugzilla.html store/bugzilla.txt
-#cp store/redhat.html store/redhat.txt
-
-
-#xmllint --format store/ubuntu.html >store/ubuntu.txt ;
-#xmllint --format store/gentoo.html >store/gentoo.txt ;
-#xmllint --format store/bugzilla.html >store/bugzilla.txt ;
-#xmllint --format store/redhat.html >store/redhat.txt ;
 
 ./search_code.sh
 
-#curl "https://ubuntu.com/security/$CVE_ID" >store/ubuntu.txt
-#curl "https://bugs.gentoo.org/show_bug.cgi?id=$CVE_ID" >store/gentoo.txt
-#curl "https://bugzilla.suse.com/show_bug.cgi?id=$CVE_ID" > store/bugzilla.txt
-#curl "https://bugzilla.redhat.com/show_bug.cgi?id=$CVE_ID" >store/redhat.txt 
-
+#Just to be safe remove the html files for next analysis
+#rm store/debian.txt store/html
+#rm store/ubuntu.html
+#rm store/gentoo.html
+#rm store/bugzilla.html
+#rm store/redhat.html
