@@ -1,0 +1,11 @@
+Windows Only
+Windows
+Minor Issue
+powerpc
+Android
+Introduced by
+Fixed by 
+Malicious
+Crafted
+Vulnerability Introduced later
+Negligible Impact
