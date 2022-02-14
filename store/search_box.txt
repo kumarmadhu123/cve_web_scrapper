@@ -20,3 +20,4 @@ Vulnerable code introduced
 only affects
 DO NOT USE THIS CANDIDATE NUMBER
 REJECT
+Negligible security impact
