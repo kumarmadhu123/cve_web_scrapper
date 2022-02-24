@@ -21,3 +21,5 @@ only affects
 DO NOT USE THIS CANDIDATE NUMBER
 REJECT
 Negligible security impact
+Vulnerable code introduced later
+Vulnerable code not present
