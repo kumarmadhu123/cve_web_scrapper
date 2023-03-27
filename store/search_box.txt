@@ -1,3 +1,5 @@
+buggy
+XEN
 Windows Only
 Windows
 Minor Issue
@@ -24,3 +26,5 @@ Negligible security impact
 Vulnerable code introduced later
 Vulnerable code not present
 introduced
+Duplicate
+CLI
