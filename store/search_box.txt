@@ -32,3 +32,5 @@ low security impact
 Broken by
 broken
 broken by
+prerequisite
+exploitation
