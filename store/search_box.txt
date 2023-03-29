@@ -1,5 +1,6 @@
 buggy
-XEN
+CONFIG_XEN
+Applicable for XEN
 Windows Only
 Windows
 Minor Issue
