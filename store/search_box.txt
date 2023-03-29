@@ -27,7 +27,6 @@ Vulnerable code introduced later
 Vulnerable code not present
 introduced
 Duplicate
-CLI
 low security impact
 Broken by
 broken
